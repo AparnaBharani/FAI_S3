@@ -1,6 +1,6 @@
 # FAI_S3
 
-# 🎓 Amrita UniBot: AI-Powered Campus Assistant
+#  Amrita UniBot: AI-Powered Campus Assistant
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
